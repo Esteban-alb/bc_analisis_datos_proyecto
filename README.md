@@ -159,4 +159,4 @@ Si te interesa el análisis de datos, la transición energética o los proyectos
 ### ⚡ Datos + Energía + Tecnología = Futuro sostenible
 
 </div>
-::contentReference[oaicite:1]{index=1}
+
